@@ -13,7 +13,6 @@
 
 ## 🖼️ Screenshot
 
-> *(Insert a screenshot here)*  
 > Example: ![image](https://github.com/user-attachments/assets/de2383e0-778f-4b70-8dcd-cd476a603872)
 
 
