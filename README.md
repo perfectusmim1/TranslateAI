@@ -14,7 +14,8 @@
 ## 🖼️ Screenshot
 
 > *(Insert a screenshot here)*  
-> Example: `![image](https://github.com/user-attachments/assets/6cf7faff-b7bc-4a18-936c-dffd51905598)`
+> Example: ![image](https://github.com/user-attachments/assets/de2383e0-778f-4b70-8dcd-cd476a603872)
+
 
 ## ⚙️ How to Use
 
