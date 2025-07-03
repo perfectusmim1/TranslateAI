@@ -19,7 +19,7 @@
 ## ⚙️ How to Use
 
 1. Download or clone this repository.
-2. Open the `index.html` file in any modern browser.
+2. Open the `index_new.html` file in any modern browser.
 3. Paste your Gemini API key when prompted.
 4. Start translating instantly.
 
