@@ -14,7 +14,7 @@
 ## 🖼️ Screenshot
 
 > *(Insert a screenshot here)*  
-> Example: `![screenshot](./screenshot.png)`
+> Example: `![image](https://github.com/user-attachments/assets/6cf7faff-b7bc-4a18-936c-dffd51905598)`
 
 ## ⚙️ How to Use
 
